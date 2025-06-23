@@ -49,4 +49,3 @@ Pasta assets/ com imagens e ícones
 💡 Projeto feito para aprender
 Esse site foi feito com base em um projeto da Alura para praticar conceitos como responsividade, variáveis CSS, modo noturno e Bootstrap.
 
-Se quiser, posso adaptar ainda mais ou incluir GIFs, imagens e links. Quer algo assim?
